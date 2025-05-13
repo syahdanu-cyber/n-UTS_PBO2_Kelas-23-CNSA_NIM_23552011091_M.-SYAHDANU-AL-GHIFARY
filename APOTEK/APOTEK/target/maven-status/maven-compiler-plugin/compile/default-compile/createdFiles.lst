@@ -1,0 +1,13 @@
+com\mycompany\apotek\Pembelian.class
+com\mycompany\apotek\DBConnection.class
+com\mycompany\apotek\Obat.class
+com\mycompany\apotek\Pasien.class
+com\mycompany\apotek\ResepElektronik.class
+com\mycompany\apotek\ResepTertulis.class
+com\mycompany\apotek\Dokter.class
+com\mycompany\apotek\APOTEK.class
+com\mycompany\apotek\TenagaMedis.class
+com\mycompany\apotek\MetodeResep.class
+com\mycompany\apotek\Apoteker.class
+com\mycompany\apotek\Menu.class
+com\mycompany\apotek\Pembelian$DetailPembelian.class
