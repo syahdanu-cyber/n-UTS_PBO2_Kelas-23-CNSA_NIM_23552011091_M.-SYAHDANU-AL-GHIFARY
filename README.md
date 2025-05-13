@@ -62,6 +62,6 @@ Kelas utama yang menjalankan aplikasi, memeriksa koneksi database, dan memanggil
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/syahdanu-cyber/n-UTS_PBO2_Kelas-23-CNSA_NIM_23552011091_M.-SYAHDANU-AL-GHIFARY/tree/main">Github</a></li>
   <li>Youtube: <a href="https://youtu.be/KnGXdXDPDR4">Youtube</a></li>
 </ul>
